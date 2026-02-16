@@ -11,3 +11,8 @@ Features:
 
 Live site:
 https://yatharth378.github.io/odin-recipes/
+
+## Future Improvements
+- Add CSS styling
+- Responsive layout
+- Navigation bar
