@@ -2,7 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.div{
+#heading{
     display: block;
     background-color: rgb(156, 220, 220);
     color: black;
