@@ -1,0 +1,57 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#inge{
+    display: block;
+    color: black;
+    background-color: rgb(236, 167, 98);
+    text-align: center;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    padding: 24px;
+    margin: 0 auto;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: left;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#tom{
+    color: black;
+    font-size: 24px;
+    text-align: left;
+    padding: 8px;
+}
+
+#steps{
+    display: block;
+    border: 4px solid black;
+    font-size: 28px;
+    padding: 8px;
+    text-align: left;
+    font-weight: 250;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+    padding 20px;
+    font-size: 32px;
+}
